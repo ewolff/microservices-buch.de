@@ -333,6 +333,11 @@ Full-Width Styles
   height: 70px;
 }
 
+
+#links > a + a {
+   margin-left: 10px;
+}
+
 .zip_download_link {
   display: block;
   float: right;
