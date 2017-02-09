@@ -19,10 +19,10 @@ Komplexität und Herausforderungen beim Deployment.
 
 ##Das Buch
 
-      Das Buch enthält eine umfangreiche Einführung in Microservices
-      und betrachtet Technologien genauso wie Architektur und
-      organisatorische Auswirkungen. Außerdem erläutert es
-      Nanoservices als noch kleinere Services.
+Das Buch enthält eine umfangreiche Einführung in Microservices
+und betrachtet Technologien genauso wie Architektur und
+organisatorische Auswirkungen. Außerdem erläutert es
+Nanoservices als noch kleinere Services.
 
 ##Was Leser sagen
 
@@ -43,7 +43,6 @@ empfehlen.
 Hier gibt es einige Leseproben als PDF:
       
 * [1 Inhaltsverzeichnis](Buch_1_Inhaltsverzeichnis.pdf)
-
 * [2 Vorwort](Buch_2_Vorwort.pdf)
 * [3 Einleitung](Buch_3_Einleitung.pdf)
 * [4 Was sind Microservices (Kapitelauszug)](Buch_4_Was_sind_Microservices(Kapitelauszug).pdf)

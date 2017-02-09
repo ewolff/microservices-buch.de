@@ -7,7 +7,6 @@ description: Errata für das Microservices-Buch
 Errata
 ---
 
-
 ##Kapitel 1 - Vorwort
 
 p. 5, Marginalie "Unabhängige Skalierung": Jeder Microservice kann
