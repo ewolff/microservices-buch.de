@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Microservices-Buch"
-description: "Microservices-Buch von Eberhard Wolff
+description: "Microservices-Buch von Eberhard Wolff"
 ---
 
 Microservices
