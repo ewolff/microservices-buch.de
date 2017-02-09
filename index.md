@@ -17,14 +17,14 @@ Integration in Legacy-Systeme und auch Continuous Delivery wird
 so einfacher. Microservices führen aber auch zu einer höheren
 Komplexität und Herausforderungen beim Deployment.
 
-##Das Buch
+## Das Buch
 
 Das Buch enthält eine umfangreiche Einführung in Microservices
 und betrachtet Technologien genauso wie Architektur und
 organisatorische Auswirkungen. Außerdem erläutert es
 Nanoservices als noch kleinere Services.
 
-##Was Leser sagen
+## Was Leser sagen
 
 Das beste Buch über Microservices ist IT-untypischerweise auf Deutsch:
       "Microservices" von @ewolff
@@ -38,7 +38,7 @@ empfehlen.
 [Peter Storch](https://twitter.com/storchp/status/678547218119401473)
 
       
-##Leseproben
+## Leseproben
 
 Hier gibt es einige Leseproben als PDF:
       
@@ -48,12 +48,12 @@ Hier gibt es einige Leseproben als PDF:
 * [4 Was sind Microservices (Kapitelauszug)](Buch_4_Was_sind_Microservices(Kapitelauszug).pdf)
 
       
-##English Translation
+## English Translation
 
 There is an English translation available at
       <http://microservices-book.com/> .
 
-##Autor
+## Autor
 
 Eberhard Wolff arbeitet seit mehr als fünfzehn Jahren als Architekt
 und Berater – oft an der Schnittstelle zwischen Business und

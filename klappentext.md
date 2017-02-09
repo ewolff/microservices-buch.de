@@ -45,7 +45,7 @@ Microservices möglichst gewinnbringend genutzt werden können. Außerdem
 erhalten Sie Anregungen, das Gelernte durch eigene Experimente weiter
 zu vertiefen.
 
-##Zielgruppe
+## Zielgruppe
 
 
 * Softwareentwickler
