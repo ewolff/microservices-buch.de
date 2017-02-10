@@ -10,7 +10,7 @@ Microservices Überblick
 Dieses Booklet gibt einen kurzen Überblick über Microservices und
 bietet so eine gute Starthilfe für die Arbeit mit Microservices.
 
-##Inhalt
+## Inhalt
 
 * Was sind Microservices?
   * Die Groesse von Microservices
@@ -27,7 +27,7 @@ bietet so eine gute Starthilfe für die Arbeit mit Microservices.
 
 Das letzte Kapitel zeigt, wie man mit konkret Microservices loslegen kann.
 
-##Herunterladen
+## Herunterladen
 
 Das eBook gibt es kostenlos bei Leanpub in den Formaten PDF, ePub und
 Mobi (Kindle). Das eBook ist nicht durch DRM (digital rights
