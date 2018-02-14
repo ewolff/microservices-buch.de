@@ -30,16 +30,16 @@ Auch als E-Book erhältlich
 <center>
 <p>
 <a href="http://www.dpunkt.de/book_details.php?id=5026&ref=1008"><img
-      src="http://www.dpunkt.de/images/cover/detail/5026.jpg" width="120"
+      src="https://www.dpunkt.de/common/images/cover_masterid/300/12181.jpg" width="120"
       alt="Microservices Cover" />
 </a>
-<a href="http://www.dpunkt.de/book_details.php?id=5797&ref=1008"><img
-      src="http://www.dpunkt.de/images/cover/detail/5797.jpg" width="120"
-      alt="Continuous Delivery Cover" />
+<a href="https://www.dpunkt.de/book_details.php?id=13065&ref=1008"><img
+      src="https://www.dpunkt.de/common/images/cover_masterid/300/13065.jpg" width="120"
+      alt="Microservices Praxisbuch Cover" />
 </a>
-<a href="http://www.dpunkt.de/book_details.php?id=2942&ref=1008"><img
-      src="http://www.dpunkt.de/images/cover/detail/2942.jpg" width="120"
-      alt="Spring 3 Cover" />
+<a href="http://www.dpunkt.de/book_details.php?id=5797&ref=1008"><img
+      src="https://www.dpunkt.de/common/images/cover_masterid/300/12506.jpg" width="120"
+      alt="Continuous Delivery Cover" />
 </a>
 </p>
 </center>
