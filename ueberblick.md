@@ -10,6 +10,8 @@ Microservices Überblick
 Dieses Booklet gibt einen kurzen Überblick über Microservices und
 bietet so eine gute Starthilfe für die Arbeit mit Microservices.
 
+<img src="images/ueberblick.jpg" width="50%" /> 
+
 ## Inhalt
 
 * Was sind Microservices?
