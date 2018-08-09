@@ -24,6 +24,15 @@ und betrachtet Technologien genauso wie Architektur und
 organisatorische Auswirkungen. Außerdem erläutert es
 Nanoservices als noch kleinere Services.
 
+## 2. Auflage
+
+In der zweiten Auflage wurde der Abschnitt zu Domain-Driven Design
+komplett überarbeitet. Erweitert wurde die beispielhafte Beschreibung
+von Microservices-Technologien: Neben dem Netflix-Stack werden nun
+auch Alternativen erwähnt. Außerdem wurden die Essays zur Evolution
+von Microservices und zu Microservices in der Amazon Cloud
+aktualisiert.
+
 ## Was Leser sagen
 
 Das beste Buch über Microservices ist IT-untypischerweise auf Deutsch:

@@ -45,6 +45,13 @@ Microservices möglichst gewinnbringend genutzt werden können. Außerdem
 erhalten Sie Anregungen, das Gelernte durch eigene Experimente weiter
 zu vertiefen.
 
+In der zweiten Auflage wurde der Abschnitt zu Domain-Driven Design
+komplett überarbeitet. Erweitert wurde die beispielhafte Beschreibung
+von Microservices-Technologien: Neben dem Netflix-Stack werden nun
+auch Alternativen erwähnt. Außerdem wurden die Essays zur Evolution
+von Microservices und zu Microservices in der Amazon Cloud
+aktualisiert.
+
 ## Zielgruppe
 
 

@@ -11,7 +11,7 @@ Hier noch einige Links:
 
 * [Eberhard Woffs Homepage](http://ewolff.com)
 
-* [innoQ](http://innoq.com) ist der Arbeitgeber des Autors
+* [INNOQ](http://innoq.com) ist der Arbeitgeber des Autors
 
 * [Eberhard Wolff](http://twitter.com/ewolff) bei Twitter
 
