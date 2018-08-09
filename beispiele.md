@@ -26,3 +26,6 @@ Das Buch enthält verschiedene Beispiele. Die Links auf den Code sind:
 * Das [Seneca Example](https://github.com/ewolff/seneca-example)
 	zeigt, wie SenecaJS für JavaScript Nanoservices
 	unterstützt.
+
+Weitere Beispiele für Microservices finden sich unter
+[https://ewolff.com/microservices-demos.html](https://ewolff.com/microservices-demos.html).
