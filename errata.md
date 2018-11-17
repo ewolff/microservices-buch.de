@@ -13,6 +13,7 @@ Errata
 
 p.102 Der Verweis auf "Abschnitt 4.4" ist falsch.
       Richtig ist "Abschnitt 4.3" auf Seite 44.
+      Danke für den Hinweis an Jürgen Dufner!
 
 ## Errata zur ersten Auflage
 
