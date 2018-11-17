@@ -9,7 +9,10 @@ Errata
 
 ## Errata zur zweiten Auflage
 
-Zur zweiten Auflage sind noch keine Errata bekannt.
+### Kapitel 8
+
+p.102 Der Verweis auf "Abschnitt 4.4" ist falsch.
+      Richtig ist "Abschnitt 4.3" auf Seite 44.
 
 ## Errata zur ersten Auflage
 
