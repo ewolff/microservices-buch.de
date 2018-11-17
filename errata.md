@@ -9,11 +9,24 @@ Errata
 
 ## Errata zur zweiten Auflage
 
+### Kapitel 4
+
+p. 56 Spiegelstrich zu Domain-Driven Design:
+      Der Verweis auf "Abschnitt 4.4" ist falsch.
+      Richtig ist "Abschnitt 4.3" auf Seite 44.
+
 ### Kapitel 8
 
-p.102 Der Verweis auf "Abschnitt 4.4" ist falsch.
+p. 102, 109, 110, 128 Der Verweis auf "Abschnitt 4.4" ist falsch.
       Richtig ist "Abschnitt 4.3" auf Seite 44.
       Danke für den Hinweis an Jürgen Dufner!
+
+### Kapitel 10
+
+p. 198, 202 Der Verweis auf "Abschnitt 4.4" ist falsch.
+      Richtig ist "Abschnitt 4.3" auf Seite 44.
+
+
 
 ## Errata zur ersten Auflage
 
