@@ -11,6 +11,10 @@ Errata
 
 ### Kapitel 4
 
+p. 44 Ubiquituous Language ist falsch geschrieben
+	Richtig: Ubiquitous. Danke für den Hinweis an Maximilian
+	Schettle.
+
 p. 56 Spiegelstrich zu Domain-Driven Design:
       Der Verweis auf "Abschnitt 4.4" ist falsch.
       Richtig ist "Abschnitt 4.3" auf Seite 44.
