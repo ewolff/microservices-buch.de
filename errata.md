@@ -25,12 +25,14 @@ p. 102, 109, 110, 128 Der Verweis auf "Abschnitt 4.4" ist falsch.
       Richtig ist "Abschnitt 4.3" auf Seite 44.
       Danke für den Hinweis an Jürgen Dufner!
 
+p. 150 In Abbildung 8-16 soll der senkrechte Strich mit "vertikaler
+      Skalierung" beschriftet sein. Danke an Florian Ritterhoff für
+      den Hinweis!
+
 ### Kapitel 10
 
 p. 198, 202 Der Verweis auf "Abschnitt 4.4" ist falsch.
       Richtig ist "Abschnitt 4.3" auf Seite 44.
-
-
 
 ## Errata zur ersten Auflage
 
